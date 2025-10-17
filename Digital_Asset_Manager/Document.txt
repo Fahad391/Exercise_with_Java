@@ -1,0 +1,12 @@
+Sample Project - 2: Digital Asset Management System
+Goal: To track different types of digital assets
+
+1) Built Blue print with Abstraction and Interface to define common behavior and enforce abstraction
+2) Built Specific Assets using Inheritance
+3) Used Encapsulation to hide specific data
+4) Used Method Overriding to provide the specific implementation
+for abstract method inherited from parent class
+      and
+used overloading to create two versions of constructor
+
+5) Used polymorphism to put all things together.
